@@ -1,3 +1,8 @@
 this line1 is added at master branch
+
 this line2 is edited at branch1
-this line3 is added at branch1
+
+
+
+this line3 is added at branch2
+
